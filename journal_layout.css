@@ -1,0 +1,19 @@
+#container {
+	border: 5px green solid;
+}
+
+.header {
+	border: 5px red solid;
+}
+
+.showcase {
+	border: 5px orange solid;
+}
+
+.section {
+	border: 5px blue solid;
+}
+
+#date {
+	border: 5px purple solid;
+}
