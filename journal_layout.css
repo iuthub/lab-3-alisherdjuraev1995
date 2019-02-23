@@ -4,13 +4,20 @@ body {
 	background-image: url("images/background.jpg");
 }
 
+img {
+	float: right;
+}
+
 #container {
 	border: 5px green solid;
 	background-color: white;
+	text-align: left;
+	float: left;
 }
 
 .header {
 	border: 5px red solid;
+	text-align: right;
 }
 
 .showcase {
@@ -23,6 +30,9 @@ body {
 	padding: 5px;
 	margin-top: 10px;
 	margin-left: 0;
+	text-align: left;
+	float: left;
+	clear: inherit;
 }
 
 #date {
