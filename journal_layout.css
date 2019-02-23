@@ -1,5 +1,12 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("images/background.jpg");
+}
+
 #container {
 	border: 5px green solid;
+	background-color: white;
 }
 
 .header {
@@ -12,6 +19,10 @@
 
 .section {
 	border: 5px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 0;
 }
 
 #date {
